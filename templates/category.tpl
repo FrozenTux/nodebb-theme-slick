@@ -24,6 +24,7 @@
 		<hr class="hidden-xs" />
 
 		<h4 class="hidden-xs">{name}</h4>
+    <p>{description}</p>
 
 		<!-- IF !topics.length -->
 		<div class="alert alert-warning" id="category-no-topics">
