@@ -36,7 +36,7 @@
 		<div class="author">
 			<a href="<!-- IF posts.user.userslug -->{config.relative_path}/user/{posts.user.userslug}<!-- ELSE -->#<!-- ENDIF posts.user.userslug -->">
 			{posts.user.username}
-		</a>
+		</a> <!-- IF posts.user.fullname --> <br><span style="font-sizee:0.8em;">({posts.user.fullname})</span> <!-- ENDIF posts.user.fullname -->
 			<br>
 			<!-- IF posts.user.selectedGroup.slug -->
 			<a href="{config.relative_path}/groups/{posts.user.selectedGroup.slug}"><small class="label group-label" style="background-color: {posts.user.selectedGroup.labelColor};"><!-- IF posts.user.selectedGroup.icon --><i class="fa {posts.user.selectedGroup.icon}"></i> <!-- ENDIF posts.user.selectedGroup.icon -->{posts.user.selectedGroup.userTitle}</small></a>
