@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-slick",
-    "name": "Slick theme",
-    "description": "Slick theme for NodeBB",
+    "id": "nodebb-theme-slick-movefix",
+    "name": "Slick theme (modification for astico)",
+    "description": "Slick theme with mods and fixes for the astico forum",
     "url": "https://github.com/pichalite/nodebb-theme-slick",
     "screenshot": "screenshot.png"
 }
