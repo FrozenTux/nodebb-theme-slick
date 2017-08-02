@@ -6,7 +6,7 @@
 				<h3 id="move_topic_label">[[topic:move_topic]]</h3>
 			</div>
 			<div class="modal-body">
-				<!-- IMPORT partials/category_list.tpl -->
+				<!-- IMPORT partials/category-selector.tpl -->
 
 				<p>
 					[[topic:disabled_categories_note]]
