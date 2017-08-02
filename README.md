@@ -1,6 +1,3 @@
-# Slick theme for NodeBB
+This repo contains small tweaks and fixes to the Slick nodebb theme to fit a specific use case. 
 
-
-![](https://i.imgur.com/3emPDyq.png)
-
-![](https://i.imgur.com/UNZ2j3u.png)   ![](https://i.imgur.com/Rl6ezMh.png)
+The orginal theme can be found at [pichalite/nodebb-theme-slick](https://github.com/pichalite/nodebb-theme-slick)
