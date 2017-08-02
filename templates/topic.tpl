@@ -38,7 +38,9 @@
 			<!-- END posts -->
 		</div>
 
+    <!-- IF privileges.topics:reply -->
 		<!-- IMPORT partials/topic/quickreply.tpl -->
+    <!-- ENDIF privileges.topics:reply -->
 
 		<div class="post-bar">
 			<!-- IMPORT partials/post_bar.tpl -->
